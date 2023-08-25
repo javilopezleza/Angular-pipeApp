@@ -29,7 +29,6 @@ registerLocaleData(localFR);
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-
     SharedModule
   ],
   providers: [
